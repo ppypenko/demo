@@ -1,5 +1,0 @@
-C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\demo\Demo.WebUI\Demo.Domain\bin\Debug\Demo.Domain.dll
-C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\demo\Demo.WebUI\Demo.Domain\bin\Debug\Demo.Domain.pdb
-C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\demo\Demo.WebUI\Demo.Domain\obj\Debug\Demo.Domain.csprojResolveAssemblyReference.cache
-C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\demo\Demo.WebUI\Demo.Domain\obj\Debug\Demo.Domain.dll
-C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\demo\Demo.WebUI\Demo.Domain\obj\Debug\Demo.Domain.pdb
