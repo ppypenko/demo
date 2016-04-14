@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="22497bfc615549ebac27ea8b51b72c94" Name="Diagram1">
+      <Diagram DiagramId="f1a447ca147947ddbbabdfaf5e90bc6b" Name="Diagram1">
         <EntityTypeShape EntityType="masterModel.Category" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="masterModel.Product" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <AssociationConnector Association="masterModel.FK_Products_ToTable" ManuallyRouted="false" />
