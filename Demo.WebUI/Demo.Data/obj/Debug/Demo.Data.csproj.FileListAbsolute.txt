@@ -1,0 +1,5 @@
+C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\Demo.WebUI\Demo.Data\bin\Debug\Demo.Data.dll
+C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\Demo.WebUI\Demo.Data\bin\Debug\Demo.Data.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\Demo.WebUI\Demo.Data\obj\Debug\Demo.Data.csprojResolveAssemblyReference.cache
+C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\Demo.WebUI\Demo.Data\obj\Debug\Demo.Data.dll
+C:\Users\Pyotr Pypenko\Desktop\CSC260\MVC\Demo.WebUI\Demo.Data\obj\Debug\Demo.Data.pdb
